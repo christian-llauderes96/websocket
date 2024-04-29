@@ -1,0 +1,10 @@
+2024-04-15 01:56:40 PM - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-04-15 01:57:20 PM - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-04-15 01:57:38 PM - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-04-15 01:58:59 PM - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-04-15 02:02:56 PM - Call to protected method DBH::connect() from global scope
+2024-04-15 02:04:02 PM - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-04-15 02:04:17 PM - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-04-15 02:04:25 PM - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-04-15 02:04:41 PM - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+2024-04-15 02:05:06 PM - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
